@@ -195,3 +195,7 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.google-map-scroll-off {
+  pointer-events: none;
+}
