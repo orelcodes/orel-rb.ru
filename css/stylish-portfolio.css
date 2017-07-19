@@ -94,6 +94,23 @@ hr.small {
     -o-background-size: cover; */
 }
 
+.header-menu {
+  float: right;
+  margin-right: 15px;
+  margin-bottom: -25px;
+  font-size: 1.4em;
+  color: #333;
+}
+
+.header-menu li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.header-menu a {
+  color: #333;
+}
+
 .ruby-header {
   display: inline-block;
   font-size: 3.2em;
